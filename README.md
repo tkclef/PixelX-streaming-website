@@ -1,30 +1,15 @@
-# Game streaming website
+Pixel X | Game Streaming Platform
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Redefining the Way the World Plays
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tkclefofficial-3040s-projects/v0-game-streaming-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/XKmUrq2EJb3)
+🔥 Overview
+Pixel X is a next-generation game streaming and entertainment platform developed by XDegree Studios, designed for gamers, creators, and dreamers. It brings ultra-low latency streaming, AI-enhanced performance, and immersive community interaction together in one seamless experience.
 
-## Overview
+From live gameplay and tournaments to creator showcases and exclusive content, Pixel X transforms streaming into a world of speed, style, and limitless creativity.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+🎮 Play. Stream. Dominate.
 
-## Deployment
+🛠 Developed by xDegree | Tkclef Theonel
 
-Your project is live at:
-
-**[https://vercel.com/tkclefofficial-3040s-projects/v0-game-streaming-website](https://vercel.com/tkclefofficial-3040s-projects/v0-game-streaming-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/XKmUrq2EJb3](https://v0.app/chat/projects/XKmUrq2EJb3)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🌐 Live Website
+Experience it here: 🔗 Pixel X Official Website￼
